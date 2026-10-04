@@ -1,0 +1,284 @@
+﻿{
+    "totalMs":  112517,
+    "rate":  22050,
+    "channels":  1,
+    "bits":  16,
+    "lines":  [
+                  {
+                      "id":  "w1",
+                      "text":  "Welcome to the world of numbers!",
+                      "startMs":  300,
+                      "endMs":  2714
+                  },
+                  {
+                      "id":  "i1",
+                      "text":  "This is Ollie. Ollie is a one.",
+                      "startMs":  2924,
+                      "endMs":  6203
+                  },
+                  {
+                      "id":  "i2",
+                      "text":  "Today we will learn about tens and ones.",
+                      "startMs":  6383,
+                      "endMs":  9347
+                  },
+                  {
+                      "id":  "i3",
+                      "text":  "Let\u0027s go!",
+                      "startMs":  9497,
+                      "endMs":  10876
+                  },
+                  {
+                      "id":  "o1",
+                      "text":  "These little blocks are called ones.",
+                      "startMs":  11206,
+                      "endMs":  13930
+                  },
+                  {
+                      "id":  "o2",
+                      "text":  "Let\u0027s count them.",
+                      "startMs":  14110,
+                      "endMs":  15865
+                  },
+                  {
+                      "id":  "c1",
+                      "text":  "One.",
+                      "startMs":  16075,
+                      "endMs":  17379
+                  },
+                  {
+                      "id":  "c2",
+                      "text":  "Two.",
+                      "startMs":  17559,
+                      "endMs":  18699
+                  },
+                  {
+                      "id":  "c3",
+                      "text":  "Three.",
+                      "startMs":  18879,
+                      "endMs":  20153
+                  },
+                  {
+                      "id":  "c4",
+                      "text":  "Four.",
+                      "startMs":  20333,
+                      "endMs":  21702
+                  },
+                  {
+                      "id":  "o3",
+                      "text":  "Four ones make four.",
+                      "startMs":  21942,
+                      "endMs":  23997
+                  },
+                  {
+                      "id":  "t0",
+                      "text":  "Now, watch this!",
+                      "startMs":  24417,
+                      "endMs":  26611
+                  },
+                  {
+                      "id":  "t1",
+                      "text":  "Here are ten ones.",
+                      "startMs":  26821,
+                      "endMs":  28770
+                  },
+                  {
+                      "id":  "n1",
+                      "text":  "One.",
+                      "startMs":  28980,
+                      "endMs":  30284
+                  },
+                  {
+                      "id":  "n2",
+                      "text":  "Two.",
+                      "startMs":  30386,
+                      "endMs":  31526
+                  },
+                  {
+                      "id":  "n3",
+                      "text":  "Three.",
+                      "startMs":  31628,
+                      "endMs":  32902
+                  },
+                  {
+                      "id":  "n4",
+                      "text":  "Four.",
+                      "startMs":  33004,
+                      "endMs":  34374
+                  },
+                  {
+                      "id":  "n5",
+                      "text":  "Five.",
+                      "startMs":  34476,
+                      "endMs":  35870
+                  },
+                  {
+                      "id":  "n6",
+                      "text":  "Six.",
+                      "startMs":  35972,
+                      "endMs":  37446
+                  },
+                  {
+                      "id":  "n7",
+                      "text":  "Seven.",
+                      "startMs":  37548,
+                      "endMs":  39023
+                  },
+                  {
+                      "id":  "n8",
+                      "text":  "Eight.",
+                      "startMs":  39125,
+                      "endMs":  40294
+                  },
+                  {
+                      "id":  "n9",
+                      "text":  "Nine.",
+                      "startMs":  40396,
+                      "endMs":  41696
+                  },
+                  {
+                      "id":  "n10",
+                      "text":  "Ten.",
+                      "startMs":  41798,
+                      "endMs":  43097
+                  },
+                  {
+                      "id":  "tm",
+                      "text":  "Ten ones make one ten!",
+                      "startMs":  43367,
+                      "endMs":  45591
+                  },
+                  {
+                      "id":  "te",
+                      "text":  "Ten ones equals one ten.",
+                      "startMs":  45921,
+                      "endMs":  48260
+                  },
+                  {
+                      "id":  "tn",
+                      "text":  "This is Tenny. Tenny is a ten.",
+                      "startMs":  48531,
+                      "endMs":  51855
+                  },
+                  {
+                      "id":  "b0",
+                      "text":  "Let\u0027s build a number.",
+                      "startMs":  52185,
+                      "endMs":  54024
+                  },
+                  {
+                      "id":  "b1",
+                      "text":  "Here are three tens.",
+                      "startMs":  54234,
+                      "endMs":  56213
+                  },
+                  {
+                      "id":  "b2",
+                      "text":  "And here are four ones.",
+                      "startMs":  56423,
+                      "endMs":  58552
+                  },
+                  {
+                      "id":  "b3",
+                      "text":  "Three tens and four ones make thirty-four.",
+                      "startMs":  58762,
+                      "endMs":  61881
+                  },
+                  {
+                      "id":  "p1",
+                      "text":  "In thirty-four, the three is in the tens place.",
+                      "startMs":  62361,
+                      "endMs":  66005
+                  },
+                  {
+                      "id":  "p2",
+                      "text":  "And the four is in the ones place.",
+                      "startMs":  66215,
+                      "endMs":  68704
+                  },
+                  {
+                      "id":  "p3",
+                      "text":  "Three tens is thirty.",
+                      "startMs":  68914,
+                      "endMs":  70913
+                  },
+                  {
+                      "id":  "p4",
+                      "text":  "And four ones is four.",
+                      "startMs":  71123,
+                      "endMs":  73227
+                  },
+                  {
+                      "id":  "p5",
+                      "text":  "Thirty plus four equals thirty-four.",
+                      "startMs":  73438,
+                      "endMs":  76316
+                  },
+                  {
+                      "id":  "a0",
+                      "text":  "Let\u0027s try another number.",
+                      "startMs":  76736,
+                      "endMs":  78851
+                  },
+                  {
+                      "id":  "a1",
+                      "text":  "Here are five tens.",
+                      "startMs":  79061,
+                      "endMs":  81115
+                  },
+                  {
+                      "id":  "a2",
+                      "text":  "And two ones.",
+                      "startMs":  81325,
+                      "endMs":  83029
+                  },
+                  {
+                      "id":  "a3",
+                      "text":  "That makes fifty-two.",
+                      "startMs":  83239,
+                      "endMs":  85268
+                  },
+                  {
+                      "id":  "q1",
+                      "text":  "Which number is greater? Thirty-four, or fifty-two?",
+                      "startMs":  85688,
+                      "endMs":  90517
+                  },
+                  {
+                      "id":  "q2",
+                      "text":  "Look at the tens first.",
+                      "startMs":  93017,
+                      "endMs":  95131
+                  },
+                  {
+                      "id":  "q3",
+                      "text":  "Five tens is more than three tens.",
+                      "startMs":  95341,
+                      "endMs":  98150
+                  },
+                  {
+                      "id":  "q4",
+                      "text":  "So fifty-two is greater than thirty-four.",
+                      "startMs":  98360,
+                      "endMs":  101510
+                  },
+                  {
+                      "id":  "r1",
+                      "text":  "A two-digit number is made of tens and ones.",
+                      "startMs":  101930,
+                      "endMs":  105238
+                  },
+                  {
+                      "id":  "r2",
+                      "text":  "Three tens and four ones make thirty-four.",
+                      "startMs":  105448,
+                      "endMs":  108567
+                  },
+                  {
+                      "id":  "r3",
+                      "text":  "Great job! See you next time!",
+                      "startMs":  108837,
+                      "endMs":  112337
+                  }
+              ]
+}

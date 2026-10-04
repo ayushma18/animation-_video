@@ -1,0 +1,17 @@
+voiceover.wav  —  DRAFT / PLACEHOLDER ONLY (do NOT submit)
+-----------------------------------------------------------
+- Generated with the Windows built-in speech voice (Microsoft Zira), for FREE.
+- Purpose: timing/preview reference so you can watch the lesson with narration NOW.
+- Duration: ~112.5s (1:52). The animation is now timed FROM this audio (see sync.json),
+  so the whole video runs 1:52 and includes a ~2.5s think-pause in the compare scene.
+- IMPORTANT: if you regenerate/replace the voiceover, the per-sentence timings will change.
+  Re-run scratchpad build_vo.ps1 (it writes sync.json) OR keep the exact same sentences and
+  pacing so the embedded timings in the HTML still line up. The HTML timings come from sync.json.
+- It is a robotic system voice and its commercial-use terms are not suited to a submission.
+
+BEFORE SUBMITTING, replace it with a commercially licensed voice:
+  1. Run narration_script.txt through ElevenLabs / Azure Neural TTS / Google Cloud TTS.
+     (child-friendly female: ElevenLabs "Rachel"; Azure "en-US-AnaNeural" or "JennyNeural")
+  2. Export as MP3 and save it here as:  voiceover.mp3
+  3. The player auto-prefers voiceover.mp3 over this .wav — no code change needed.
+  4. Record the license details in ../LICENSES.md.
